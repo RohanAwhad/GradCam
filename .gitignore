@@ -1,0 +1,6 @@
+*.h5
+*.whl
+__pycache__
+*swp
+*.jpg
+*.tar
